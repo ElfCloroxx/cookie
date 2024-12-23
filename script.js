@@ -12,7 +12,7 @@ cookies.forEach(cookie => {
             // If all cookies are eaten, show a celebration
             if (cookiesLeft === 0) {
                 setTimeout(() => {
-                    alert('🎉 All cookies eaten! Happy Birthday Haaris! 🎉');
+                    alert('🎉 All cookies NOMMED! Happy Birthday Haaris! <33 LALALA BIG INSERT YAP');
                 }, 500);
             }
         }
